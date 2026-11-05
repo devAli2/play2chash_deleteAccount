@@ -1,0 +1,73 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="description" content="How to request deletion of your Play2Cash account and associated data.">
+<title>Account Deletion | Play2Cash</title>
+<style>
+:root{--green:#174b3a;--gold:#c6a66b;--ink:#26332e;--bg:#f5f7f3}
+*{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.75 Arial,sans-serif}
+header{background:linear-gradient(135deg,#123b30,#24634b);color:#fff;text-align:center;padding:44px 18px}
+header h1{margin:8px;font-size:clamp(28px,5vw,38px)}header p{margin:0;color:#e5eee8}
+main{width:min(850px,calc(100% - 30px));margin:28px auto 48px}
+article{background:#fff;border:1px solid #e5eae5;border-radius:16px;padding:clamp(22px,5vw,40px)}
+h2{color:var(--green);font-size:21px;margin:27px 0 8px}li{margin:7px 0}
+.notice{background:#f4f7f2;border-left:4px solid var(--gold);padding:14px 16px;border-radius:8px}
+a{color:#176348;overflow-wrap:anywhere}.ar{direction:rtl;text-align:right;border-top:1px solid #e5eae5;margin-top:34px;padding-top:25px}
+footer{text-align:center;color:#64736b;font-size:14px;padding:0 15px 25px}
+</style>
+</head>
+<body>
+<header><div style="font-size:30px;color:#e8d5a5">☾ ✦</div><h1>Account Deletion</h1>
+<p>Play2Cash | play games to earn</p></header>
+<main><article>
+<p><strong>App name:</strong> Play2Cash | play games to earn</p>
+<p><strong>Google Play developer:</strong> Smiley Dev</p>
+<p><strong>Developer:</strong> Yaser Al Saeyd Ahmad</p>
+<p><strong>Support email:</strong> <a href="mailto:ahmed.open123481@gmail.com">ahmed.open123481@gmail.com</a></p>
+<p><strong>Last updated:</strong> November 5, 2026</p>
+
+<div class="notice"><strong>How to request account deletion:</strong> Send an email to <a href="mailto:ahmed.open123481@gmail.com?subject=Play2Cash%20Account%20Deletion%20Request">ahmed.open123481@gmail.com</a> with the subject <strong>Play2Cash Account Deletion Request</strong>. Include the email address associated with your Play2Cash account or your in-app user ID, if available. Do not send your Google password.</div>
+
+<h2>What will be deleted?</h2>
+<p>After we verify that you own the account, we will delete the Play2Cash account and the personal data associated with it that we control, including:</p>
+<ul>
+<li>Your Firebase Authentication account used to sign in to Play2Cash.</li>
+<li>Your user profile and account-linked records stored in Firebase Realtime Database.</li>
+<li>Other personal information or user-generated content associated with your account and controlled by the app, where applicable.</li>
+</ul>
+<p>Some records may be retained if they are necessary for legal compliance, fraud prevention, security, dispute resolution, or financial/accounting obligations. Any retained data will be limited to what is necessary and kept only for the legally or operationally required period.</p>
+
+<h2>Rewards, points, and withdrawal records</h2>
+<p>If your account contains points, rewards, withdrawal requests, transaction history, or payment-related records, please be aware that deletion of your account may remove access to your account and its in-app history. Records that must be retained for legal, accounting, fraud-prevention, or dispute-resolution purposes may be kept for the period required by applicable law. Contact support before requesting deletion if you have a pending withdrawal or unresolved balance.</p>
+
+<h2>Processing your request</h2>
+<p>We will review your request and may ask for reasonable information to verify account ownership. Once verified, we will process deletion within the period required by applicable law and our operational process. If you publish a specific processing deadline or retention period, ensure it reflects your actual practice.</p>
+
+<h2>Contact</h2>
+<p>For questions about account deletion, contact <a href="mailto:ahmed.open123481@gmail.com">ahmed.open123481@gmail.com</a>. Please use the email associated with your Play2Cash account when possible.</p>
+
+<section class="ar" lang="ar">
+<h2>طلب حذف حساب Play2Cash والبيانات المرتبطة به</h2>
+<p>هذه الصفحة مخصصة لمستخدمي تطبيق <strong>Play2Cash | play games to earn</strong> لطلب حذف حساباتهم والبيانات الشخصية المرتبطة بها.</p>
+<h2>كيفية طلب حذف الحساب</h2>
+<p>أرسل رسالة إلى <a href="mailto:ahmed.open123481@gmail.com">ahmed.open123481@gmail.com</a> بعنوان <strong>Play2Cash Account Deletion Request</strong>. اذكر البريد الإلكتروني المرتبط بحسابك في التطبيق أو معرّف المستخدم داخل التطبيق إن كان متاحًا. لا ترسل كلمة مرور حساب Google.</p>
+<h2>ما البيانات التي سيتم حذفها؟</h2>
+<ul>
+<li>حساب Firebase Authentication المستخدم لتسجيل الدخول إلى التطبيق.</li>
+<li>ملف المستخدم والسجلات المرتبطة بحسابه في Firebase Realtime Database.</li>
+<li>المعلومات الشخصية أو المحتوى المرتبط بالحساب والخاضع لسيطرة التطبيق، إن وجد.</li>
+</ul>
+<h2>البيانات التي قد يتم الاحتفاظ بها</h2>
+<p>قد يتم الاحتفاظ ببعض السجلات عند الضرورة للامتثال للقوانين أو متطلبات المحاسبة أو منع الاحتيال أو حماية أمن الخدمة أو حل النزاعات. يقتصر الاحتفاظ على البيانات الضرورية وللمدة التي تفرضها المتطلبات القانونية أو التشغيلية الفعلية.</p>
+<h2>النقاط والمكافآت وطلبات السحب</h2>
+<p>إذا كان حسابك يحتوي على نقاط أو مكافآت أو طلبات سحب أو سجل معاملات، فقد يؤدي حذف الحساب إلى فقدان إمكانية الوصول إلى هذه البيانات وسجل الحساب داخل التطبيق. وقد نحتفظ بالسجلات التي يتطلب القانون أو المحاسبة أو منع الاحتيال الاحتفاظ بها للمدة اللازمة. يُرجى التواصل مع الدعم قبل طلب الحذف إذا كان لديك طلب سحب معلّق أو رصيد لم تتم تسويته.</p>
+<h2>معالجة الطلب</h2>
+<p>سنراجع الطلب وقد نطلب معلومات معقولة للتحقق من ملكية الحساب. بعد التحقق، سننفذ الحذف وفقًا للمتطلبات القانونية وإجراءاتنا الفعلية.</p>
+<h2>التواصل</h2>
+<p>للمساعدة أو الاستفسار، تواصل عبر البريد الإلكتروني: <a href="mailto:ahmed.open123481@gmail.com">ahmed.open123481@gmail.com</a>.</p>
+</section>
+</article></main>
+<footer>© 2026 Play2Cash | Smiley Dev</footer>
+</body></html>
